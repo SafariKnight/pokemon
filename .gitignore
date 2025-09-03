@@ -19,6 +19,7 @@ node_modules
 .wrangler
 /.svelte-kit
 /build
+backend/database.sqlite
 
 # OS
 .DS_Store
